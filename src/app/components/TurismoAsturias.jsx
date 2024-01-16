@@ -23,18 +23,20 @@ const TurismoAsturias = () => {
 
     return (
         <div>
-            <div className="flex justify-center">
-            <div className="grid grid-cols-3 gap-4">
-                {elementosActuales.map((item) => (
-                    <div key={item.id} className="max-w-sm rounded-lg overflow-hidden shadow-lg border border-gray-200">
-                        <img className="w-full" src={item.imagen} alt={item.nombre} />
-                        <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-1">{item.nombre}</div>
-                        </div>
+            <React.Fragment>
+                <div className="flex justify-center">
+                    <div className="grid grid-cols-3 gap-4">
+                        {elementosActuales.map((item) => (
+                            <div key={item.id} className="max-w-sm rounded-lg overflow-hidden shadow-lg border border-gray-200">
+                                <img className="w-full" src={item.imagen} alt={item.nombre} />
+                                <div className="px-6 py-4">
+                                    <div className="font-bold text-xl mb-1">{item.nombre}</div>
+                                </div>
+                            </div>
+                        ))}
                     </div>
-                ))}
-            </div>
-        </div>
+                </div>
+            </React.Fragment>
             <div className="flex justify-center mt-4">
                 {[...Array(totalPaginas).keys()].map((num) => (
                     <button 

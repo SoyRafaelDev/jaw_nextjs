@@ -1,3 +1,5 @@
+'use client';
+
 const Card = ({ nombre, imagen }) => {
    return (
        <div className="max-w-sm rounded overflow-hidden shadow-lg">
