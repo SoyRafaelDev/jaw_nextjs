@@ -20,3 +20,27 @@ export const PERKS = [
         name: 'Planes', description: ' Ya sea que busques aventuras emocionantes, exploraciones culturales o momentos de relax, tenemos el plan perfecto para cada tipo de viajero. Descubre la libertad de elegir y personalizar tu experiencia de viaje con nosotros.', Icon: NotebookPen,
     },
 ]
+
+export const PRODUCTS_CATEGORIES = [
+    {
+        label: 'Asturias',
+        value: 'asturias_kit' as const,
+        featured: [
+            {
+                name: 'ciudad 01',
+                href: '#',
+                imageSrc: '/nav/imagen/asturias01.svg'
+            },
+            {
+                name: 'ciudad 02',
+                href: '#',
+                imageSrc: '/nav/imagen/asturias02.svg'
+            },
+            {
+                name: 'ciudad 03',
+                href: '#',
+                imageSrc: '/nav/imagen/asturias03.svg'
+            },
+        ],
+    },
+]
