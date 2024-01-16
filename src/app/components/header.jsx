@@ -15,7 +15,7 @@ const Header = () => {
   return (
     <header className="flex justify-between items-center p-4">
       <div>
-      <Image src="/images/astur.png" alt="Logo de AstuRural" width={200} height={50} />
+        <Image src="/images/logaso.png" alt="Logo de AstuRural" width={200} height={50} />
       </div>
       <div className="flex items-center">
         <a
