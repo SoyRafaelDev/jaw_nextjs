@@ -2,6 +2,8 @@ import { AlarmClock, CalendarDays, CastleIcon, NotebookPen } from "lucide-react"
 
 export const NAV_LINKS = [
     { href: '/', key:'home', label: 'Home'},
+    { href: '/sitios', key:'sitios', label: 'Qué Visitar'},
+    { href: '/tours', key:'tours', label: 'Tours'},	
     { href: '/servicios', key:'servicios', label: 'Servicios'},
     { href: '/contacts', key:'contactos', label: 'Contactos'},
 ]

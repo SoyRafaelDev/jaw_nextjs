@@ -9,6 +9,8 @@ interface SitioTuristico {
     id: number;
     nombre: string;
     imagen: string;
+    descripcion: string;
+    coordenadas: string;
     // Incluye aquí otras propiedades necesarias
 }
 
@@ -26,6 +28,7 @@ const Sitios: React.FC<SitiosProps> = ({ datos }) => {
     </div>
     );
 };
+
 
 
 export default Sitios;

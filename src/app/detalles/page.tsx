@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 
 const [datos, setDatos] = useState([]);
 
-const Sitios = ({ datos }) => {
+const Detalles = ({ datos }) => {
     return (
         <div className="grid grid-cols-3 gap-4">
             {datos.map(item => (
@@ -15,4 +15,4 @@ const Sitios = ({ datos }) => {
     );
 };
 
-export default Sitios;
+export default Detalles;

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import Link from 'next/link';
 
 const TurismoAsturias = () => {
     const [datos, setDatos] = useState([]);
@@ -27,11 +28,13 @@ const TurismoAsturias = () => {
                 <div className="flex justify-center">
                     <div className="grid grid-cols-3 gap-4">
                         {elementosActuales.map((item) => (
-                            <div key={item.id} className="max-w-sm rounded-lg overflow-hidden shadow-lg border border-gray-200">
+                            <div key={item.id} className="max-w-sm rounded-lg overflow-hidden shadow-lg border border-gray-700">
                                 <img className="w-full" src={item.imagen} alt={item.nombre} />
-                                <div className="px-6 py-4">
-                                    <div className="font-bold text-xl mb-1">{item.nombre}</div>
-                                </div>
+                                <Link href={`/turismo-asturias/${item.id}`}>
+                                    <div className="px-6 py-4">
+                                        <div className="font-bold text-xl mb-1">{item.nombre}</div>
+                                    </div>
+                                </Link>
                             </div>
                         ))}
                     </div>
@@ -39,9 +42,9 @@ const TurismoAsturias = () => {
             </React.Fragment>
             <div className="flex justify-center mt-4">
                 {[...Array(totalPaginas).keys()].map((num) => (
-                    <button 
-                        key={num} 
-                        onClick={() => paginar(num + 1)} 
+                    <button
+                        key={num}
+                        onClick={() => paginar(num + 1)}
                         className="mx-1 px-3 py-2 border rounded hover:bg-gray-200"
                     >
                         {num + 1}

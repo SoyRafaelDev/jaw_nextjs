@@ -1,25 +1,27 @@
 import React from 'react';
-import { GoogleMap, Marker, useLoadScript } from "@react-google-maps/api";
+import { GoogleMap, useLoadScript } from "@react-google-maps/api";
 
-const MapComponent = ({ coordenadas }) => {
+const Maps = () => {
+    // ...
+
     const { isLoaded, loadError } = useLoadScript({
-        googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY,
+        googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY, // Acceder a la API key
     });
 
+    // Comprobar si el mapa está cargado
     if (loadError) return <div>Error al cargar el mapa.</div>;
     if (!isLoaded) return <div>Cargando mapa...</div>;
 
+    // Renderizar el mapa
+    // ...
+
     return (
-        <GoogleMap
-            zoom={15}
-            center={coordenadas}
-            mapContainerStyle={{ width: '100%', height: '400px' }}
-        >
-            <Marker position={coordenadas} />
-        </GoogleMap>
+        <div>
+            {/* Tu componente de mapa aquí */}
+        </div>
     );
 };
 
-export default MapComponent;
+export default Maps;
 
 

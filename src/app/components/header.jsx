@@ -10,13 +10,19 @@ import {
   FaWhatsapp,
 } from 'react-icons/fa';
 import Image from 'next/image';
+import WeatherInfo from './WeatherInfo';
 
 const Header = () => {
   return (
-    <header className="flex justify-between items-center p-4">
+    <header className="flex justify-around items-center p-2">
       <div>
-        <Image src="/images/logaso.png" alt="Logo de AstuRural" width={200} height={50} />
+        <Image src="/images/logo.png" alt="Logo de AstuRural" width={250} height={100} />
       </div>
+
+      <div >
+        <WeatherInfo />
+      </div>
+
       <div className="flex items-center">
         <a
           href="https://facebook.com"
