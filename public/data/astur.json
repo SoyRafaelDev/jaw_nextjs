@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nombre": "Picos de Europa",
+    "descripcion": "Los Picos de Europa, declarados Parque Nacional en 1918, son una majestuosa cadena montañosa situada en el norte de España. Este parque natural se extiende a través de Asturias, Cantabria y León, y es conocido por su impresionante belleza natural, con picos que alcanzan más de 2,500 metros de altura. Es un paraíso para los amantes del senderismo, el alpinismo y la naturaleza, ofreciendo rutas como la famosa Ruta del Cares. Los Picos de Europa también son hogar de una rica fauna, incluyendo especies como el oso pardo y el lobo ibérico. La zona cuenta con una variedad de paisajes, desde profundos valles y verdes pastizales hasta imponentes formaciones rocosas calizas. Además, los Picos de Europa albergan pueblos con encanto y una rica tradición cultural, haciendo de esta región un destino imprescindible para quienes buscan combinar aventura y cultura en un entorno natural espectacular.",
+    "imagen": "/images/urriellu.webp",
+    "coordenadas": {
+      "lat": 43.215,
+      "lng": -4.85
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Covadonga",
+    "descripcion": "Covadonga, situada en el corazón de Asturias, es un lugar de gran significado histórico y espiritual. Es famosa por su santuario y la Basílica de Santa María la Real de Covadonga, un impresionante templo de estilo neorrománico construido en el siglo XIX. El sitio es también conocido por la Santa Cueva, donde se encuentra la imagen de la Virgen de Covadonga, patrona de Asturias, y la tumba de Don Pelayo, figura clave en la Reconquista española. Este lugar no solo atrae a peregrinos y visitantes religiosos, sino también a amantes de la naturaleza, ya que se encuentra en las puertas del Parque Nacional de los Picos de Europa. La combinación de su rica historia, su significado religioso y su impresionante entorno natural lo convierten en un destino único. Covadonga es un punto de partida ideal para explorar los Lagos de Covadonga, dos impresionantes lagos glaciares que añaden más encanto a este ya místico lugar. La tranquilidad y belleza del paisaje, junto con la importancia cultural y espiritual del santuario, hacen de Covadonga un lugar esencial en cualquier visita a Asturias. Aquí, la historia y la leyenda se entrelazan con el paisaje, ofreciendo una experiencia inolvidable que va más allá de la simple visita turística.",
+    "imagen": "/images/covadonga.webp",
+    "coordenadas": {
+      "lat": 43.308333,
+      "lng": -5.056667
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Oviedo",
+    "descripcion": "Oviedo, la capital del Principado de Asturias, es una ciudad que encarna una mezcla perfecta de historia, cultura y modernidad. Conocida por sus calles peatonales adoquinadas y su arquitectura medieval, Oviedo es un lugar donde el tiempo parece haberse detenido. Uno de los principales atractivos de la ciudad es su impresionante Catedral de San Salvador, una joya del gótico asturiano y parte del Camino de Santiago. La ciudad también es famosa por sus numerosas esculturas urbanas, como la famosa 'Mafalda sentada en un banco del Parque de San Francisco, y por sus plazas acogedoras como la Plaza del Fontán, llena de vida y actividad. Oviedo tiene una vibrante escena culinaria, con innumerables sidrerías donde se puede disfrutar de la tradicional sidra asturiana acompañada de deliciosas tapas y platos locales. Otro aspecto destacado de Oviedo es su patrimonio prerrománico, con monumentos como San Julián de los Prados, Santa María del Naranco y San Miguel de Lillo, declarados Patrimonio de la Humanidad por la UNESCO. Estos edificios son ejemplos sobresalientes del arte asturiano prerrománico y aportan un valor histórico y artístico único a la ciudad. Oviedo no solo impresiona por su riqueza cultural y arquitectónica, sino también por su atmósfera acogedora y su gente amable, lo que la convierte en un destino imprescindible en cualquier viaje a Asturias.",
+    "imagen": "/images/oviedo.jpg",
+    "coordenadas": {
+      "lat": 43.362343,
+      "lng": -5.844759
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Gijón",
+    "descripcion": "Gijón, una dinámica ciudad costera en Asturias, es un vibrante crisol de historia, cultura y vida moderna. Con su famosa playa de San Lorenzo, un extenso arenal perfecto para los amantes del sol y el surf, y el pintoresco barrio de Cimavilla, repleto de calles estrechas y coloridas casas, Gijón ofrece una experiencia única de la vida marítima del norte de España. La ciudad es también un centro de arte y cultura, destacando el Laboral Ciudad de la Cultura y el Jardín Botánico Atlántico. Con una animada escena gastronómica que incluye sidrerías tradicionales y mercados de productos locales, Gijón atrae tanto a quienes buscan historia y cultura como a los que desean disfrutar de la naturaleza y la vida nocturna, todo en un entorno urbano que aún conserva su encanto histórico y su conexión íntima con el mar Cantábrico.",
+    "imagen": "/images/gijon.jpg",
+    "coordenadas": {
+      "lat": 43.532202,
+      "lng": -5.661119
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Cudillero",
+    "descripcion": "Cudillero es un pintoresco pueblo pesquero situado en la costa occidental de Asturias, conocido por sus casas de colores brillantes que parecen trepar por los acantilados alrededor de un anfiteatro natural frente al mar. Este encantador y pequeño puerto es famoso por sus vistas panorámicas del mar Cantábrico y sus estrechas calles empedradas. Cudillero conserva una atmósfera tradicional y auténtica, con sus habitantes aún dedicados a la pesca, reflejando la esencia de un pueblo asturiano típico. Es un lugar ideal para disfrutar de la gastronomía marina, especialmente de platos como el pescado fresco y los mariscos. Además, la proximidad a playas y acantilados hace de Cudillero un destino perfecto para los amantes de la naturaleza y aquellos que buscan un refugio pintoresco lejos del bullicio de las ciudades. Su belleza y encanto únicos han hecho de Cudillero uno de los destinos más fotogénicos y visitados de Asturias.",
+    "imagen": "/images/cudillero.jpg",
+    "coordenadas": {
+      "lat": 43.561536,
+      "lng": -6.145994
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Llanes",
+    "descripcion": "Llanes, un encantador pueblo costero en el oriente de Asturias, es un destino que destaca por su impresionante belleza natural y su rica historia. Esta localidad se caracteriza por sus pintorescas calles, su vibrante puerto, y una impresionante costa salpicada de playas y acantilados. Uno de sus mayores atractivos es el Paseo de San Pedro, un sendero elevado que ofrece vistas panorámicas del mar Cantábrico y de la Sierra del Cuera. Además de su encanto natural, Llanes posee un interesante patrimonio arquitectónico, con ejemplos de arquitectura medieval como la Basílica de Santa María y el Palacio de Gastañaga. La gastronomía local es otro punto fuerte, con deliciosos platos de mariscos y pescados, y la tradicional sidra asturiana. Llanes también es famoso por sus playas únicas, como la Playa de Gulpiyuri, una curiosa playa interior y natural, y la Playa de Toró con sus peculiares formaciones rocosas. La combinación de su patrimonio cultural, su impresionante entorno natural y su animada vida social hacen de Llanes un lugar imprescindible para cualquier viajero que visite Asturias.",
+    "imagen": "/images/llanes.jpg",
+    "coordenadas": {
+      "lat": 43.420038,
+      "lng": -4.754877
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Ribadesella",
+    "descripcion": "Ribadesella es un vibrante pueblo costero situado en la costa oriental de Asturias, famoso por su espectacular ubicación en la desembocadura del río Sella. Es especialmente conocido por el Descenso Internacional del Sella, un evento anual de piragüismo que atrae a competidores y espectadores de todo el mundo. Además de su relevancia deportiva, Ribadesella es también un lugar de gran interés histórico y cultural. Destaca la Cueva de Tito Bustillo, uno de los sitios más importantes de arte rupestre en Europa, declarada Patrimonio de la Humanidad por la UNESCO. Las pinturas y grabados de la cueva son un testimonio excepcional del arte prehistórico. El propio pueblo de Ribadesella, con sus hermosas playas, como la Playa de Santa Marina, y su encantador casco antiguo, ofrece una mezcla encantadora de historia, naturaleza y modernidad. Sus calles y plazas rebosan de vida, con una amplia oferta de restaurantes y sidrerías donde se puede disfrutar de la cocina asturiana. El paseo marítimo y la playa son perfectos para disfrutar de un día soleado, mientras que el casco antiguo, con sus históricas mansiones y edificios señoriales, cuenta la historia de una rica tradición marítima. Ribadesella no es solo un destino turístico, sino un lugar donde la historia, la cultura y la belleza natural se combinan armoniosamente, ofreciendo a sus visitantes una experiencia única y auténtica.",
+    "imagen": "/images/ribadesella.jpg",
+    "coordenadas": {
+      "lat": 43.420038,
+      "lng": -4.754877
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Playa del Silencio",
+    "descripcion": "La Playa del Silencio, joya escondida en la costa asturiana, cautiva con su serena belleza y atmósfera tranquila. Rodeada de acantilados imponentes y vegetación exuberante, esta playa revela su encanto en su nombre: un remanso de paz lejos del bullicio. Con su arena dorada y aguas cristalinas, la Playa del Silencio invita a la contemplación y la relajación. Es un refugio natural donde el sonido de las olas se convierte en la única banda sonora, creando un ambiente mágico y sereno. Esta playa, accesible a través de un pintoresco sendero, es un rincón paradisíaco que deja una huella duradera en aquellos que buscan la calma y la conexión con la naturaleza.",
+    "imagen": "/images/silencio.jpg",
+    "coordenadas": {
+      "lat": 43.552817,
+      "lng": -6.214167
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Taramundi",
+    "descripcion": "Taramundi, ubicado en el occidente de Asturias, es un tesoro rural que encierra la esencia de la tradición asturiana. Conocido por su artesanía única, especialmente sus afamados cuchillos, Taramundi ofrece un viaje en el tiempo a través de sus calles empedradas y paisajes verdes. Sus molinos de agua, que aún funcionan, y sus casas de piedra dan vida a un ambiente pintoresco y auténtico. Este pueblo, inmerso en la naturaleza asturiana, es un refugio para aquellos que buscan la serenidad rural y la oportunidad de explorar las raíces artesanales de la región. Taramundi es mucho más que un destino, es un testimonio vivo de la historia y la artesanía asturiana que invita a sumergirse en su encanto rural.",
+    "imagen": "/images/taramundi.jpg",
+    "coordenadas": {
+      "lat": 43.357581,
+      "lng": -7.175278
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Lastres",
+    "descripcion": "Lastres, una pintoresca villa pesquera en la costa asturiana, deslumbra con su encanto marítimo y su arquitectura tradicional. Con sus casas de colores escalonadas que se asoman al mar, Lastres ofrece vistas panorámicas impresionantes. Este antiguo puerto pesquero cuenta con una atmósfera tranquila y auténtica, donde las callejuelas empedradas llevan a encantadoras plazas y rincones llenos de historia. Su puerto, todavía activo, añade un toque vibrante al paisaje. Además, Lastres ha sido escenario de películas y series, lo que destaca aún más su atractivo.",
+    "imagen": "/images/lastres.jpg",
+    "coordenadas": {
+      "lat": 43.542500,
+      "lng": -5.254167
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Ruta del Cares",
+    "descripcion": "La Ruta del Cares, una joya natural en el corazón de los Picos de Europa, ofrece una experiencia de senderismo única e inolvidable. A lo largo de unos 12 kilómetros, este estrecho desfiladero serpentea entre paredes rocosas escarpadas, revelando vistas impresionantes y precipicios vertiginosos. El río Cares acompaña el recorrido, agregando una melodía natural al entorno. El paisaje montañoso, los túneles tallados en la roca y la sensación de aventura hacen de esta ruta una de las más populares en España.",
+    "imagen": "/images/cares.jpg",
+    "coordenadas": {
+      "lat": 43.2019,
+      "lng": -4.8296
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Museo de la Minería y de la Industria (MUMI)",
+    "descripcion": "El Museo de la Minería y de la Industria (MUMI) en Asturias es un fascinante viaje al pasado industrial de la región. Situado en el valle de Samuño, este museo ofrece una visión completa de la vida en las minas y la evolución de la industria asturiana. Las exposiciones incluyen maquinaria minera auténtica, recreaciones detalladas de los entornos de trabajo y una experiencia interactiva que transporta a los visitantes a la época minera.",
+    "imagen": "/images/muni.webp",
+    "coordenadas": {
+      "lat": 43.273989,
+      "lng": -5.964517
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Parque Natural de Somiedo",
+    "descripcion": "El Parque Natural de Somiedo, un tesoro natural en Asturias, cautiva con sus paisajes montañosos, valles verdes y una biodiversidad única. Designado Reserva de la Biosfera por la UNESCO, este parque alberga una rica variedad de flora y fauna, incluyendo osos pardos y lobos ibéricos. Senderos sinuosos conducen a lagos glaciares como el Lago del Valle, reflejando la majestuosidad de los Picos de Europa. Las tradicionales brañas, construcciones de piedra y tejados de escoba, añaden un toque cultural a este paraíso natural.",
+    "imagen": "/images/somiedo.webp",
+    "coordenadas": {
+      "lat": 43.1267,
+      "lng": -6.2811
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Playa de Gulpiyuri",
+    "descripcion": "La Playa de Gulpiyuri, un tesoro escondido en la costa asturiana, es una maravilla natural que sorprende por su singularidad. Aunque ubicada tierra adentro, esta playa de pequeñas dimensiones cuenta con agua salada y está conectada al mar Cantábrico a través de grutas submarinas. Rodeada de verdes prados y acantilados, Gulpiyuri es un rincón idílico donde la serenidad se mezcla con la belleza natural.",
+    "imagen": "/images/gulpiyuri.webp",
+    "coordenadas": {
+      "lat": 43.448611,
+      "lng": -4.813611
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Bufones de Pría",
+    "descripcion": "os Bufones de Pría, situados en la costa asturiana, son una maravilla geológica que ofrece un espectáculo impresionante de la naturaleza en acción. Estos orificios en los acantilados permiten que el agua del mar se filtre y sea expulsada en impresionantes chorros y rugidos. La fuerza del mar crea un espectáculo dinámico y cautivador. Rodeados de un paisaje costero espectacular, los Bufones de Pría son un recordatorio asombroso de la poderosa influencia del océano en la formación del paisaje.",
+    "imagen": "/images/bufones.jpg",
+    "coordenadas": {
+      "lat": 43.460833,
+      "lng": -4.865833
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Niemeyer Center en Avilés",
+    "descripcion": "El Niemeyer Center en Avilés es un hito arquitectónico y cultural que fusiona innovación y arte de manera vanguardista. Diseñado por el renombrado arquitecto brasileño Oscar Niemeyer, el centro se destaca por su arquitectura futurista, con formas curvas y colores brillantes que lo convierten en un símbolo único. Albergando una diversidad de eventos culturales, exposiciones y actividades, el Niemeyer Center es un espacio dinámico que celebra la creatividad en todas sus formas.",
+    "imagen": "/images/niemeyer.webp",
+    "coordenadas": {
+      "lat": 43.557222,
+      "lng": -5.924722
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Lagos de Covadonga",
+    "descripcion": "Los Lagos de Covadonga, ubicados en el corazón de los Picos de Europa, son un espectáculo natural de una belleza sobrecogedora. Rodeados por majestuosas montañas y envueltos en una atmósfera de serenidad, estos lagos glaciares, Enol y Ercina, ofrecen un paisaje de ensueño. El reflejo de las cumbres en las aguas cristalinas, la flora que salpica las orillas y la tranquilidad del entorno hacen de este lugar un destino imprescindible para los amantes de la naturaleza.",
+    "imagen": "/images/lagos.jpg",
+    "coordenadas": {
+      "lat": 43.309444,
+      "lng": -4.989167
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Cabo de Peñas",
+    "descripcion": "El Cabo de Peñas, en la costa asturiana, es un lugar donde la tierra se encuentra con el mar en una fusión espectacular. Con acantilados majestuosos que se elevan sobre el océano Cantábrico, este cabo ofrece vistas panorámicas impresionantes y una sensación de grandiosidad natural. El faro de Cabo de Peñas, testigo silencioso del paso del tiempo, añade un toque de historia a este paisaje. Rodeado por un entorno natural salvaje y escarpado, el cabo es un punto de encuentro entre la fuerza del océano y la solidez de la tierra.",
+    "imagen": "/images/cabo.jpg",
+    "coordenadas": {
+      "lat": 43.650000,
+      "lng": -5.866667
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Sidrerías de Villaviciosa",
+    "descripcion": "Las sidrerías de Villaviciosa, conocidas por ser el corazón de la tradición sidrera en Asturias, ofrecen una experiencia culinaria auténtica y llena de sabor. En este encantador pueblo, las sidrerías son más que lugares para degustar la icónica sidra asturiana; son espacios acogedores donde se celebra la cultura y la camaradería. Desde el ritual de escanciar la sidra hasta la amplia variedad de platos locales, como la fabada asturiana y el pescado fresco del Cantábrico, cada visita a una sidrería es un festín para los sentidos.",
+    "imagen": "/images/sidrerias.webp",
+    "coordenadas": {
+      "lat": 43.486389,
+      "lng": -5.435833
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Muniellos",
+    "descripcion": "Muniellos, declarada Reserva de la Biosfera por la UNESCO, es un tesoro natural en el suroeste de Asturias que cautiva con su exuberante biodiversidad y paisajes prístinos. Este bosque ancestral, uno de los mejores conservados de Europa, ofrece una experiencia única para los amantes de la naturaleza. Con sus densos bosques de hayas y robles, Muniellos es hogar de una rica fauna, incluyendo el oso pardo ibérico. Los senderos bien conservados permiten explorar este santuario natural, mientras que la tranquilidad del entorno ofrece un escape sereno de la vida cotidiana.",
+    "imagen": "/images/muniellos.webp",
+    "coordenadas": {
+      "lat": 42.124444,
+      "lng": -6.614167
+    }
+  }
+]

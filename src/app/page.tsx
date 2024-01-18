@@ -1,7 +1,7 @@
 import MaxWidthWrapper from './components/MaxWidhtWrapper'
 import Image from 'next/image'
 import Link from 'next/link'
-import { PERKS } from '../../constants'
+import { PERKS, CITIES_MAIN } from '../../constants'
 import { Button, buttonVariants } from './components/ui/button'
 
 
@@ -48,9 +48,30 @@ export default function Home() {
       </MaxWidthWrapper>
     </section>
 
-    <section>
-      <MaxWidthWrapper children={undefined}>
-        
+    <section className='border-t border-gray-200 bg-white'>
+    <MaxWidthWrapper className='py-20'>
+    <h1 className='text-4xl font-bold tracking-tighter text-gray-900 sm:text-6xl text-center mb-10'>
+        Sitios más populares que visitrar en {' '}<span className='text-green-900'>ASTURIAS</span>.
+        </h1>
+    <div className='grid grid-cols-1 gap-y-20 sm:grid-x-6 lg:grid-cols-3 lg:gap-y-0'>
+          {CITIES_MAIN.map((city) => (
+            <div key={city.name} className='text-center md:flex md:items-start md:text-left lg:block lg:text-center'>
+              <div className='md:flex-shrink-0 flex justify-center'>
+                <div className='relative overflow-hidden rounded-lg bg-gray-100 group-hover:opacity-75'>
+                  <Image src={city.image} alt={'ciudades de asturias'} width={350} height={350} ></Image>             
+                    </div>
+              </div>
+
+              <div className='mt-6 md:ml-4 md:mt-0 lg:ml-0 lg:mt-6'>
+                <h3 className='text-base font-mmediu text-gray-900'>{city.name}</h3>
+                <p className='mt-3 text-sm font-muted-foreground text-gray-900'>
+                  {city.description}
+                </p>
+              </div>
+            </div>
+          ))}
+        </div>
+
       </MaxWidthWrapper>
     </section>
 </>
