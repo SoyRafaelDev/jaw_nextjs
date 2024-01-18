@@ -75,6 +75,12 @@ export const CITIES_MAIN = [
         description: "Llanes es una pintoresca ciudad costera con un impresionante paisaje marino. Sus playas, como la Playa de Toró, son famosas por su belleza. El casco antiguo de Llanes cuenta con arquitectura medieval y coloridos edificios porticados, creando un encantador escenario.",
         image: '/images/llanes.jpg',
         featured: ["Paseo de San Pedro", "Playa de Toró", "Casco Antiguo de Llanes"]
+    },
+    {
+        name: "Playa del Silencio",
+        description: "La Playa del Silencio, joya escondida en la costa asturiana, cautiva con su serena belleza y atmósfera tranquila. Rodeada de acantilados imponentes y vegetación exuberante, esta playa revela su encanto en su nombre: un remanso de paz lejos del bullicio.",
+        image: '/images/ribadesella.jpg',
+        featured: ["Paseo de San Pedro", "Playa de Toró", "Casco Antiguo de Llanes"]
     }
 ]
 export const POLICIES = [
