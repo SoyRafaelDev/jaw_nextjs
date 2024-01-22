@@ -51,7 +51,7 @@ export default function Home() {
       <section className='border-t border-gray-200 bg-white'>
         <MaxWidthWrapper className='py-20'>
           <h1 className='text-4xl font-bold tracking-tighter text-gray-900 sm:text-6xl text-center mb-10'>
-            Sitios más populares que visitrar en {' '}<span className='text-green-900'>ASTURIAS</span>.
+            Sitios más populares que visitar en {' '}<span className='text-green-900'>ASTURIAS</span>.
           </h1>
           <div className='grid grid-cols-1 gap-y-20 sm:grid-x-6 lg:grid-cols-3 lg:gap-y-0'>
             {CITIES_MAIN.map((city) => (
@@ -63,8 +63,8 @@ export default function Home() {
                 </div>
 
                 <div className='mt-6 md:ml-4 md:mt-0 lg:ml-0 lg:mt-6'>
-                  <h3 className='text-base font-mmediu text-gray-900'>{city.name}</h3>
-                  <p className='mt-3 text-sm font-muted-foreground text-gray-900'>
+                  <h3 className='text-base font-mmediu font-bold text-gray-900'>{city.name}</h3>
+                  <p className='mt-3 text-sm font-muted-foreground text-gray-900 lg:m-6 lg:text-left'>
                     {city.description}
                   </p>
                 </div>
